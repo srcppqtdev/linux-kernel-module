@@ -124,11 +124,3 @@ sudo strace ./babel/babel_client
 ```
 
 `strace` will show low-level system calls in realtime as the program makes them.
-
-## Reading
-
-The bulk of this code came from:
-
-- http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/#prettyPhoto
-
-With the inspiration from the "Introduction to Linux Kernels" webinar from the Linux Foundation.
